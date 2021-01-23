@@ -416,7 +416,7 @@ namespace CharImg
                     "未知",
                     "未知",
                     "未知",
-                    "向作者报告此问题",
+                    "向作者报告此问题: https://github.com/SlimeNull/Null.CharImg/issues",
                     int.MinValue);
             }
         }
