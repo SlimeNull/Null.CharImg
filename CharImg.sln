@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharImg", "CharImg\CharImg.csproj", "{77807D00-33A1-4691-AF0E-F8655B78155F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77807D00-33A1-4691-AF0E-F8655B78155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77807D00-33A1-4691-AF0E-F8655B78155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77807D00-33A1-4691-AF0E-F8655B78155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77807D00-33A1-4691-AF0E-F8655B78155F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5437D13B-CDFA-4692-B005-B4A81CABFC68}
+	EndGlobalSection
+EndGlobal
