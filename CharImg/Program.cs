@@ -32,7 +32,7 @@ namespace CharImg
             "\n             -{Output | Out} 输出路径" +
             "\n             *源文件" +
             "\n" +
-            "\nNull.CharImg {}" +
+            "\nNull.CharImg /{Help | H | ?} 显示本帮助内容" +
             "\n" +
             "\n      其中参数的概述如下:" +
             "\n             字符占宽, 指图像中, 一个字符独占的宽度, 默认8" +

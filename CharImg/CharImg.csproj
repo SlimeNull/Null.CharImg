@@ -7,7 +7,7 @@
     <ProjectGuid>{77807D00-33A1-4691-AF0E-F8655B78155F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CharImg</RootNamespace>
-    <AssemblyName>CharImg</AssemblyName>
+    <AssemblyName>Null.CharImg</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
